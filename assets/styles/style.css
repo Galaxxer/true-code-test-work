@@ -80,8 +80,8 @@
 }
 .page__background-image {
     position: absolute;
-    left: -200px;
-    height: 100dvh;
+    left: -300px;
+    min-height: 100dvh;
     min-width: 150dvw;
     z-index: -1;
     object-fit: cover;
