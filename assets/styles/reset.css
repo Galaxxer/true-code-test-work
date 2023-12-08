@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    color: inherit;
+    line-height: 1;
+    background: none;
+    border: none;
+    outline: none;
+    font-family: inherit;
+}
+
+::before, ::after {
+    display: block;
+}
